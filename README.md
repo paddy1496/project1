@@ -1,16 +1,16 @@
 # project1 
 
 To add repositories
-mongoose
-mongodb
-body-parser
-express
-express-handlebars
-express-generator
+mongoose,
+mongodb,
+body-parser,
+express,
+express-handlebars,
+express-generator,
 path
 using npm in the terminal from project directory
 
-command : $npm i mongoose mongodb body-parser express express-handlebars path
+command : $npm i mongoose mongodb body-parser express express-generator express-handlebars path
 
 This will add repositories to your project.
 
